@@ -1,0 +1,12 @@
+                   precision    recall  f1-score   support
+
+            Minor     0.0000    0.0000    0.0000         3
+         Moderate     0.1200    0.2308    0.1579        13
+Moderately_Severe     0.2143    0.1071    0.1429        28
+           Severe     0.0714    0.1538    0.0976        13
+      Very_Severe     0.0000    0.0000    0.0000         2
+      Destructive     0.6538    0.4250    0.5152        40
+
+         accuracy                         0.2525        99
+        macro avg     0.1766    0.1528    0.1522        99
+     weighted avg     0.3499    0.2525    0.2821        99

@@ -1,0 +1,7 @@
+,Minor,Moderate,Moderately_Severe,Severe,Very_Severe,Destructive
+Minor,0,1,0,2,0,0
+Moderate,2,3,4,3,0,1
+Moderately_Severe,1,12,3,6,0,6
+Severe,0,7,1,2,1,2
+Very_Severe,0,1,0,1,0,0
+Destructive,2,1,6,14,0,17
