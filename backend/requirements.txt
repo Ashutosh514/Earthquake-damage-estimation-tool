@@ -1,7 +1,0 @@
-flask
-numpy<2
-scikit-learn
-pandas
-flask-cors
-tensorflow
-keras
